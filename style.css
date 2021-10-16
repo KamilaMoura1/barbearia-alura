@@ -1,5 +1,9 @@
+*{
+    padding: 15px;
+}
 body {
     font-family: 'Montserrat', sans-serif;
+    
 }
 
 header {
@@ -96,10 +100,6 @@ footer {
     color: #FFFFFF;
     font-size: 13px;
     margin: 20px;
-}
-
-main {
-   
 }
 
 form {
